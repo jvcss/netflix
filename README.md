@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Dependencies
+
+```shell
+    npm install @testing-library/jest-dom @testing-library/react @testing-library/user-event axios dash movie movie-trailer prop-types react react-dom react-icons react-redux react-router react-router-dom react-router-last-location react-scripts react-youtube redux redux-devtools-extension redux-logger redux-mock-store redux-thunk styled-components trailer
+```
 
 In the project directory, you can run:
 
